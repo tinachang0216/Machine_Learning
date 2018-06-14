@@ -2,9 +2,13 @@
 School Project
 
 Programming Skills: Python(numpy, pandas, h2o), R(RShinny, xgboost, leaflet), SQL, SAS
+
 Tools: MYSQL, Spark, Hadoop, Tensorflow, AWS, Tableau, SAS
+
 Analysis Techniques
+
 • Machine learning: Decision tree, Random forest, Neural Network, Matrix Factorization, Linear regression, Logistic regression
+
 • Statistics: Time series forecasting, ANOVA, t-test, Distribution(Binomial, Geometric, Normal, Poisson), Confusion Matrix
 
 Dictionary:
